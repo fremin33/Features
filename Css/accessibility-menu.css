@@ -1,0 +1,11 @@
+/* Add access to submenu accessible with Tab */
+.skip-links {
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+
+.ship-links:focus-within {
+    height: auto;
+    opacity: 0;
+}

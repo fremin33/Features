@@ -1,0 +1,6 @@
+/* CSS FOR ONLY INTERNET EXPLORER */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   #myElement {
+        /* Enter your style code */
+   }
+}
